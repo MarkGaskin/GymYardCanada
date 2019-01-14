@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GymYardJokes</string>
+    <string name="month_year">null 0000</string>
+    <string name="WorkedOutColor">#FFCF32</string>
+    <string name="RestDayColor">#5FAF00</string>
+    <string name="InspoDayColor">#00B499</string>
+    <string name="OofDayColor">#FFF785</string>
+</resources>

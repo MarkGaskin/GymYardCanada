@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="WorkedOut">#FFCF32</color>
+    <color name="RestDay">#5FAF00</color>
+    <color name="InspoDay">#00B499</color>
+    <color name="OofDay">#FFF785</color>
+</resources>
